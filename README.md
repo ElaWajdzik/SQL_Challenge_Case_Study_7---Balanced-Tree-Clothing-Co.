@@ -1,6 +1,3 @@
-# SQL_Challenge_Case_Study_7---Balanced-Tree-Clothing-Co.
-
-
 I practice my SQL skills with the #8WeekSQLChallenge prepared by Danny Ma. Thank you Danny for the excellent case study.
 If you are also looking for materials to improve your SQL skills you can find it [here](https://8weeksqlchallenge.com/) and try it yourself.
 
